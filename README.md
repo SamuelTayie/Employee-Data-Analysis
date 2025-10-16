@@ -2,7 +2,7 @@
 # Project Overview
 A comprehensive analysis of employee data to uncover insights into compensation, department distribution, years of experience and more.
 # Dashboard
-<img width="1623" height="764" alt="Screenshot 2025-10-16 033227" src="https://github.com/user-attachments/assets/6a01b995-faea-4c79-9760-fa666891a2b3" />
+<img Dashboard src="https://github.com/user-attachments/assets/6a01b995-faea-4c79-9760-fa666891a2b3" />
 
 # Analysis
  - **KPIs**: The Key Performance Indicators were total employees, average salary, total salary and total bonus.
