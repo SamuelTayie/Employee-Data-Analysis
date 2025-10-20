@@ -1,6 +1,6 @@
 # Employee-Data-Analysis
 # Project Overview
-A comprehensive analysis of GlobaTech Solutions data to uncover insights into compensation, department distribution, workforce years of experience and more.
+A comprehensive analysis of GlobalTech Solutions data to uncover insights into compensation, department distribution, workforce years of experience and more.
 # Dashboard
 <img Dashboard src="https://github.com/user-attachments/assets/26850787-a2d2-4271-ba9d-eb0c1a95c405" />
 
